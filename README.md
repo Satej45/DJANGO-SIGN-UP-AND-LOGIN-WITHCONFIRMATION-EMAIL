@@ -42,11 +42,11 @@ This Django project provides a user authentication system with signup, login, an
   python manage.py runserver
   Visit http://127.0.0.1:8000/ in your browser.
 
-##Usage
+## Usage
 Access the Django Admin interface at http://127.0.0.1:8000/admin/ to manage users and other authentication-related data.
 Use the API endpoints for user signup, login, and email confirmation. Refer to the API documentation for details.
 API Documentation
 API documentation is available at /api/docs/ when the server is running.
 
-##Configuration
+## Usage
 Configure your email settings in settings.py for email confirmation functionality.
