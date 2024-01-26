@@ -27,18 +27,18 @@ This Django project provides a user authentication system with signup, login, an
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/django-user-authentication.git
+   git clone https://github.com/Satej45/DJANGO-SIGN-UP-AND-LOGIN-WITHCONFIRMATION-EMAIL.git
    cd django-user-authentication
+   
 2. Install dependencies:
-  bash
-  pip install -r requirements.txt
-
+   ```bash
+   pip install -r requirements.txt
+  
 3. Apply migrations:
-  ```bash
-    python manage.py migrate
+    ```bash
+   python manage.py migrate
 
 4. Start the development server:
-  ```bash
   python manage.py runserver
   Visit http://127.0.0.1:8000/ in your browser.
 
